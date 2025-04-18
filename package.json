@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "todo(ne)",
+=======
+  "name": "harkirat-nodejs",
+>>>>>>> 0ef245c510f36dd723c36b60911b73d601a4111f
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,6 +14,11 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+<<<<<<< HEAD
     "express": "^5.1.0"
+=======
+    "chalk": "^5.4.1",
+    "commander": "^13.1.0"
+>>>>>>> 0ef245c510f36dd723c36b60911b73d601a4111f
   }
 }
