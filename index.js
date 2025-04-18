@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 const express = require('express');
 const app = express();
 
@@ -12,7 +12,7 @@ app.post('/',function(req,res){
 })
 
 app.listen(3000); // which port i am listening on port infitely
-=======
+
 //const path = require("path");  //  path is internal library
 //console.log(__dirname);
 //console.log(__dirname + "/index.js"); // this can also do same thing join two paths  or contacination
@@ -22,13 +22,17 @@ app.listen(3000); // which port i am listening on port infitely
 // whenever we intall an external lib in our system it directly became the dependecies and also automatically added to json file
 // major.minor.patch -:"chalk": "^5.4.1" so here 5 is major 4 is minor nad 1 is patch
 // if i changes major things bump the major version i some minor yo can bump minor and if fixing soome bugs you have to bum patch version
-// ^ it is called carret this help in automatically update the version whenever it lauched you simply have to delete the node modules and just npm install it install latest version
->>>>>>> 0ef245c510f36dd723c36b60911b73d601a4111f
+// ^ it is called carret this help in automatically update the version whenever it lauched you simply have to delete the node modules and just npm install it install latest versi
+//  0ef245c510f36dd723c36b60911b73d601a4111f
 
 
 
 
-<<<<<<< HEAD
+
+
+
+
+// HEAD
 
 
 
@@ -64,7 +68,7 @@ app.get('/',function(req,res){
 })
 */
 
-=======
+
 /* one more assignment you have given a file have to return how many words in that file
 const fs = require("fs");
 function main(file){
@@ -172,4 +176,8 @@ program2.parse();
 //vi a.txt
 //alias worldcli ="node index.js"
 //worldcli -h
->>>>>>> 0ef245c510f36dd723c36b60911b73d601a4111f
+// 0ef245c510f36dd723c36b60911b73d601a4111f
+
+
+
+
